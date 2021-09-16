@@ -62,7 +62,7 @@
       },
       {
         "name": "Saluigi",
-        "description": "Evil alter ego of Samario, who refused to join the tournament",
+        "description": "Evil alter ego of Samario, who refused to join the tournament.",
         "tecnique_name": "Saluigi let's goooooo!!!",
         "stamina": 82,
         "punchforce": 8,
@@ -75,7 +75,7 @@
       {
         "name": "Shiba Inuit",
         "description": "Cute dog who trained at -15 degrees. He now controls ice and water.",
-        "tecnique_name": "Woofuck you, take this ice beam",
+        "tecnique_name": "Woofuck you, take this ice beam!",
         "stamina": 64,
         "punchforce": 9,
         "guts": 77,
@@ -110,7 +110,7 @@
       },
       {
         "name": "Giga Devastator",
-        "description": "Meta definig warrior. Won't be nerfed till next year.",
+        "description": "Meta definig warrior. Won't be nerfed till next patch.",
         "tecnique_name": "Undodgeable Ultimate without Counterplay",
         "stamina": 100,
         "punchforce": 10,
