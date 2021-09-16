@@ -7,7 +7,7 @@ you will be asked the name of two fighters.
 you can see the fighter list in ```roster.json``` along with every stat.
 the program will show you the logs of the fight and the winner.
 
-### is that all?
+## is that all?
 yes. 
 
 @redriel
