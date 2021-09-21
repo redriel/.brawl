@@ -1,6 +1,7 @@
 # .brawl
 # a lighweight fighting simulator
 # by @redriel
+# v1.1
 
 import fighter
 import recruiter
@@ -62,7 +63,7 @@ while (attack_fighter.stamina > 0 and defense_fighter.stamina > 0 and round_coun
 
     # if a tecnique occurs, the match could be over
     ko_occurred = False
-    if (tecnique_scored and elusion_scored == False):
+    if (tecnique_scored == True and elusion_scored == False):
         ko_chance = random.randint(0, 99)
         if (defense_fighter.guts < ko_chance):
             defense_fighter.stamina = 0
