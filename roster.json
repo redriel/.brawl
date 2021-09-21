@@ -46,7 +46,7 @@
         "tecnique": 100,
         "nimbleness": 7,
         "toughness": 5,
-        "books": 0
+        "books": 5
       },
       {
         "name": "Lamezia Terme",
@@ -92,7 +92,7 @@
         "punchforce": 13,
         "guts": 88,
         "tecnique": 15,
-        "nimbleness": 19,
+        "nimbleness": 9,
         "toughness": 18,
         "books": 0
       },
@@ -118,7 +118,7 @@
         "tecnique": 99,
         "nimbleness": 10,
         "toughness": 10,
-        "books": 0
+        "books": 1
       },
       {
         "name": "Leopard Man",
@@ -231,7 +231,7 @@
       {
         "name": "Surely not Giuseppe Conte",
         "description": "Not the ex Italian First Minister.",
-        "tecnique_name": "Five Star Egemony Hit",
+        "tecnique_name": "Five Stars Egemony Hit",
         "stamina": 55,
         "punchforce": 5,
         "guts": 55,
@@ -257,7 +257,7 @@
         "description": "A machine from the future. Smells strange.",
         "tecnique_name": "AYY-LEMAO LASER x 100",
         "stamina": 69,
-        "punchforce": 4,
+        "punchforce": 9,
         "guts": 69,
         "tecnique": 42,
         "nimbleness": 6,
@@ -279,7 +279,7 @@
       {
         "name": "Fei Short",
         "description": "A chinese midget with a tragic backstory. He fights for revenge.",
-        "tecnique_name": "Devastating Elbow Burst",
+        "tecnique_name": "106cm Dropkick",
         "stamina": 50,
         "punchforce": 10,
         "guts": 43,
